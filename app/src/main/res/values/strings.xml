@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Discover Mahdia</string>
+
+    <!-- Application Strings and infos   -->
+    <string name="mesuemfind">See historical Infos</string>
+    <string name="find_menemnt">Find Meneuments</string>
+
+    <string name="read_more">read more</string>
+    <string name="find_landmark">getting infos about mahdia landmark</string>
+
+    <string name="see_infos_about_mahdia_landmark">see Infos</string>
+    <string name="i_am_lost_find__landmark">I want to see one</string>
+    <string name="take_me_to">Take me</string>
+
+    <!--Place holders -->
+    <string name="placeholder">placeholderText</string>
+
+    <!--Images Description -->
+    <string name="load_more_infos">load image</string>
+
+    <!-- LandMark names and description -->
+
+
+</resources>
